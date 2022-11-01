@@ -1,0 +1,10 @@
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_03_Invoice_Total\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_03_Invoice_Total\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_03_Invoice_Total\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_03_Invoice_Total\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_03_Invoice_Total\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_03_Invoice_Total\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_03_Invoice_Total\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_03_Invoice_Total\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_03_Invoice_Total\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+D:\SEUSL\2nd Year\2nd Sem\VISUAL PROGRAMMING (VP) MIT 22033\Practical\Project_03_Invoice_Total\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form2.resources
